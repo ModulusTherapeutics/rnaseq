@@ -13,8 +13,8 @@ nextflow run main.nf \
     -c nextflow.config \
     -profile test,docker,awsbatch \
     -bucket-dir s3://modulus-users/mstone/nextflow-rnaseq-batch-demo/work/ \
-    -with-report logs/awsbatch_report.html \
-    -with-trace logs/awsbatch_trace.txt \
-    -with-timeline logs/awsbatch_timeline.html \
-    -with-dag logs/awsbatch_flowchart.png \
+    -with-report s3://modulus-users/mstone/nextflow-rnaseq-batch-demo/logs/awsbatch_report.html \
+    -with-trace s3://modulus-users/mstone/nextflow-rnaseq-batch-demo/logs/awsbatch_trace.txt \
+    -with-timeline s3://modulus-users/mstone/nextflow-rnaseq-batch-demo/logs/awsbatch_timeline.html \
+    -with-dag s3://modulus-users/mstone/nextflow-rnaseq-batch-demo/logs/awsbatch_flowchart.png \
     --outdir s3://modulus-users/mstone/nextflow-rnaseq-batch-demo/
