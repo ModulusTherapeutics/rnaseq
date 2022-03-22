@@ -1,0 +1,17 @@
+sample,fastq_1,fastq_2,strandedness
+1A,s3://modulus-xfer/genewiz/30-624025468/analysis_30-624025468/fastq/1A_R1_001.fastq.gz,,unstranded
+1B,s3://modulus-xfer/genewiz/30-624025468/analysis_30-624025468/fastq/1B_R1_001.fastq.gz,,unstranded
+2A,s3://modulus-xfer/genewiz/30-624025468/analysis_30-624025468/fastq/2A_R1_001.fastq.gz,,unstranded
+2B,s3://modulus-xfer/genewiz/30-624025468/analysis_30-624025468/fastq/2B_R1_001.fastq.gz,,unstranded
+3A,s3://modulus-xfer/genewiz/30-624025468/analysis_30-624025468/fastq/3A_R1_001.fastq.gz,,unstranded
+3B,s3://modulus-xfer/genewiz/30-624025468/analysis_30-624025468/fastq/3B_R1_001.fastq.gz,,unstranded
+4A,s3://modulus-xfer/genewiz/30-624025468/analysis_30-624025468/fastq/4A_R1_001.fastq.gz,,unstranded
+4B,s3://modulus-xfer/genewiz/30-624025468/analysis_30-624025468/fastq/4B_R1_001.fastq.gz,,unstranded
+5A,s3://modulus-xfer/genewiz/30-624025468/analysis_30-624025468/fastq/5A_R1_001.fastq.gz,,unstranded
+5B,s3://modulus-xfer/genewiz/30-624025468/analysis_30-624025468/fastq/5B_R1_001.fastq.gz,,unstranded
+6A,s3://modulus-xfer/genewiz/30-624025468/analysis_30-624025468/fastq/6A_R1_001.fastq.gz,,unstranded
+6B,s3://modulus-xfer/genewiz/30-624025468/analysis_30-624025468/fastq/6B_R1_001.fastq.gz,,unstranded
+7A,s3://modulus-xfer/genewiz/30-624025468/analysis_30-624025468/fastq/7A_R1_001.fastq.gz,,unstranded
+7B,s3://modulus-xfer/genewiz/30-624025468/analysis_30-624025468/fastq/7B_R1_001.fastq.gz,,unstranded
+8A,s3://modulus-xfer/genewiz/30-624025468/analysis_30-624025468/fastq/8A_R1_001.fastq.gz,,unstranded
+8B,s3://modulus-xfer/genewiz/30-624025468/analysis_30-624025468/fastq/8B_R1_001.fastq.gz,,unstranded
